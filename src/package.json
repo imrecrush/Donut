@@ -1,0 +1,13 @@
+{
+  "name": "Donut",
+  "version": "1.0.0",
+  "description": "Donut - a tool for generating, encrypting, and decrypting passwords",
+  "main": "core.js",
+  "bin": {
+    "donut": "core.js"
+  },
+  "scripts": {
+    "start": "node core.js"
+  },
+  "author": "Recrush"
+}
